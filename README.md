@@ -1,7 +1,7 @@
 # Robot-in-Java-w/-GUI
 The project defines a Robot class and allows the user to command the robot to move to different locations within a 25 X 25 grid. The robot is able to pickup and drop off loads in different cells of the grid.
 
-Below are the screenshots of the program running and the robot moving from one location to the next with or without loads. As you can see, the robot is moving locations and changing the locations of the lettrs (loads) placed in the 25 X 25 Grid.
+Below are the screenshots of the program running and the robot moving from one location to the next with or without loads. As you can see, the robot is moving locations and changing the locations of the letters (loads) placed in the 25 X 25 Grid.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Below are the screenshots of the program running with me controlling the GUI:
